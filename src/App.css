@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  /* font-size: 20px; */
+}
+
+.text-input {
+  width: 100%;
+  min-height: 3rem;
+}
+
+pre {
+  white-space: pre-wrap;
+  overflow-x: auto;
+}
